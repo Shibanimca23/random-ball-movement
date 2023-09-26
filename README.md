@@ -15,4 +15,3 @@ Random Acceleration: Introduce random acceleration to the balls, causing their s
 
 Elastic Container: Make the container boundaries elastic, so when a ball hits the edge, it stretches or compresses briefly before bouncing back, creating a playful effect.
 
-Random Container Shape: Instead of a rectangular container, randomly select different container shapes (circle, triangle, etc.) for each animation session, adding visual variety.
