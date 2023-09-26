@@ -11,5 +11,5 @@ Experiment with different values, colors, and velocities to customize the animat
 
 
 Future Enhancement:
-The project has enhanced with more animation to  random balls
+The project can enhanced with more animation to  random balls
 
