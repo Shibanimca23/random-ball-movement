@@ -11,7 +11,5 @@ Experiment with different values, colors, and velocities to customize the animat
 
 
 Future Enhancement:
-Random Acceleration: Introduce random acceleration to the balls, causing their speeds to change slightly over time, adding more unpredictability to the animation.
-
-Elastic Container: Make the container boundaries elastic, so when a ball hits the edge, it stretches or compresses briefly before bouncing back, creating a playful effect.
+The project has enhanced with more animation to  random balls
 
