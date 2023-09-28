@@ -7,6 +7,6 @@ step 1:Clone this repository to your local machine.
 
 step 2:Open the index.html file in a web browser.
 
-### Future Enhancement:
-The project can enhanced by adding more animation to random balls
+### Future Enhancement
+The project can enhanced by adding more animation to random balls.
 
