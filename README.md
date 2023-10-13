@@ -1,12 +1,18 @@
-# Random Balls
-This web application showcases a basic animation of bouncing balls within a defined container. Each ball has its own color, initial position, and velocity, making the animation visually interesting.
+# BOUNCING BALL
 
-### steps to run
+Description:
 
-step 1:Clone this repository to your local machine.
+Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
 
-step 2:Open the index.html file in a web browser.
+How to run the code:
 
-### Future Enhancement
-The project can enhanced by adding more animation to random balls.
+Step1:Save the HTML file with a .html extension.
+
+Step2:Click the "Go Live" button to open a new browser window displaying the Bouncing_Ball animation.
+
+## Future improvement:
+
+consider integrating user interaction like click-and-drag functionality, customizable ball properties, and physics-based interactions, such as ball collisions, for a more engaging and interactive animation.
+
+
 
